@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 pyautogui = "^0.9.54"
+thorpy = "^2.1.8"
+pygame = "^2.6.0"
+numpy = "^2.0.0"
 
 
 [build-system]
